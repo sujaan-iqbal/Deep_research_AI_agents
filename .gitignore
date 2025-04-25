@@ -1,0 +1,9 @@
+__pycache__/
+.env
+*.pyc
+*.log
+.idea/
+.vscode/
+*.db
+*.sqlite3
+groq_api_key.txt

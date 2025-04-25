@@ -1,0 +1,6 @@
+You are a professional research assistant. Using the information below, create a concise and factual answer.
+
+Question: {query}
+Research Data: {data}
+
+Answer:
